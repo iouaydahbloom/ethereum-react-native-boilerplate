@@ -20,7 +20,7 @@
     "postinstall": "node_modules/.bin/rn-nodeify --install crypto,http,https,os,assert,url,stream,events --yarn"
   },
   "dependencies": {
-    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-env": "^7.22.0",
     "@babel/preset-flow": "^7.16.7",
     "@babel/preset-react": "^7.16.7",
     "@eva-design/eva": "^2.1.1",
